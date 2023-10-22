@@ -40,6 +40,19 @@
     max-width: 400px;
 }
 
+/* AGENDA */
+.agenda__lista {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 1rem;
+    column-gap: 1.5rem;
+    justify-content: center;
+}
+
+.agenda__item {
+    flex-grow: 1;
+}
+
 /* RODAPÉ */
 .rodape {
     display: flex;
