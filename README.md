@@ -9,7 +9,7 @@ Este é o projeto culturama desenvolvido durante curso de [Praticando CSS: Grid 
 | :sparkles: Nome        | **Culturama**
 | :label: Tecnologias | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" hedight="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" hedight="30"/>
 | :rocket: URL         | https://guiagost.github.io/culturama/
-| :fire: Desafio     | https://cursos.alura.com.br/course/praticando-css-grid-flexbox
+| :fire: Curso     | https://cursos.alura.com.br/course/praticando-css-grid-flexbox
 
 ## Detalhes do projeto
 
